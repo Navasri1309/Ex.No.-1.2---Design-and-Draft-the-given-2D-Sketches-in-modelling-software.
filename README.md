@@ -39,8 +39,7 @@
 
 <img width="1920" height="1140" alt="Screenshot 2026-03-28 091044" src="https://github.com/user-attachments/assets/a67b623a-5567-4106-8933-93aedd22be65" />
 
-
-<img width="1920" height="1140" alt="Screenshot 2026-03-28 091325" src="https://github.com/user-attachments/assets/94fa7873-fe17-4410-8f06-caffcc7a4b9e" />
+<img width="1920" height="1140" alt="Screenshot 2026-03-28 091325" src="https://github.com/user-attachments/assets/ddfea6d5-e1d3-48e8-a030-07ef93ffc9cd" />
 
 
  ## RESULT

@@ -37,9 +37,9 @@
 
  ## OUTPUT
 
-<img width="1920" height="1140" alt="Screenshot 2026-03-28 091044" src="https://github.com/user-attachments/assets/a67b623a-5567-4106-8933-93aedd22be65" />
+<img width="1920" height="1140" alt="Screenshot 2026-03-28 092748" src="https://github.com/user-attachments/assets/4066a3e2-45b8-4d51-9fd4-5c9648244ab8" />
 
-<img width="1920" height="1140" alt="Screenshot 2026-03-28 091325" src="https://github.com/user-attachments/assets/ddfea6d5-e1d3-48e8-a030-07ef93ffc9cd" />
+<img width="1920" height="1140" alt="Screenshot 2026-03-28 091325" src="https://github.com/user-attachments/assets/9973f4dd-65e1-4261-9dbc-d4186f3ed0d6" />
 
 
  ## RESULT
